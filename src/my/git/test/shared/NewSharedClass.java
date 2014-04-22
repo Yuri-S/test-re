@@ -15,4 +15,9 @@ public class NewSharedClass {
 	public void Test() {
 			
 	}
+	
+	@SuppressWarnings("unused")
+	private void NewWork(){
+		
+	}
 }
