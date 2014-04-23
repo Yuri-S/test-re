@@ -7,4 +7,8 @@ public class NewTestClass {
 
 	}
 
+    public void NewHomeTest(){
+
+    }
+
 }
