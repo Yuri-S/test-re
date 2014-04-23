@@ -1,7 +1,7 @@
 package my.git.test.shared;
 
 public class NewSharedClass {
-
+	String HereWeCome = "Here We Come!";
 	/**
 	 * @param args
 	 */
@@ -20,4 +20,6 @@ public class NewSharedClass {
 	private void NewWork(){
 		
 	}
+	
+	
 }
